@@ -1,4 +1,4 @@
-![Project Logo](./.github/Helios-logo.png)
+![Project Logo](./Helios-logo.png)
 
 
 
