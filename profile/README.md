@@ -7,9 +7,16 @@
 ## Project Summary
 The Helios Gallery Project is an interactive, AI-driven web application designed to generate and share custom images based on user input. Built with a dynamic user experience, the application offers image generation with custom themes, a playful Rock-Paper-Scissors game, and a gallery to view, like, and rank generated images. It leverages multiple integrations and technologies, including N8N workflows for automation, MongoDB for data storage, SendGrid for emailing, and RabbitMQ for queuing tasks.
 
-### Connection info : 
-
-**Swagger** : [swagger.yaml](https://github.com/GMIC-Helios-Team/ReadMe/blob/main/swagger.yaml)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-Cloud-0080FF?style=for-the-badge&logo=digitalocean)](https://www.digitalocean.com/)
+[![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![Caddy](https://img.shields.io/badge/Caddy-http_server-1F88C0?style=for-the-badge&logo=caddy)](https://caddyserver.com/) 
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-message_broker-FF6600?style=for-the-badge&logo=rabbitmq)](https://www.rabbitmq.com/)
+[![N8N](https://img.shields.io/badge/N8N-Workflow-FF6B6B?style=for-the-badge&logo=n8n)](https://n8n.io/)
+[![PostHog](https://img.shields.io/badge/PostHog-observability-000000?style=for-the-badge&logo=posthog)](https://posthog.com/)
+[![Grafana Alloy](https://img.shields.io/badge/grafana-observability-F46800?style=for-the-badge&logo=grafana)](https://grafana.com/docs/alloy/latest/)
+[![MongoDB](https://img.shields.io/badge/mongodb-database-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![OpenAI](https://img.shields.io/badge/Openai-ai-412991?style=for-the-badge&logo=openai)](https://www.openai.com/)
+[![SendGrid](https://img.shields.io/badge/SendGrid-communication-51A9E3?style=for-the-badge&logo=sendgrid)](https://www.sendgrid.com/)
 
 ## Endpoints 
 ### /webhook/MakeDesign
