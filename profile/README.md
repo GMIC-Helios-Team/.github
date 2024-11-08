@@ -1,4 +1,4 @@
-![Project Logo](./Helios-logo.png)
+![Project Logo](../Helios-logo.png)
 
 
 
