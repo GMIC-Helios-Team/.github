@@ -18,6 +18,10 @@ The Helios Gallery Project is an interactive, AI-driven web application designed
 [![PostHog](https://img.shields.io/badge/PostHog-observability-000000?style=for-the-badge&logo=posthog)](https://posthog.com/)
 [![Grafana Alloy](https://img.shields.io/badge/grafana-observability-F46800?style=for-the-badge&logo=grafana)](https://grafana.com/docs/alloy/latest/)
 
+## Documentation Library
+- [Technology Overview](./technical-overview.md)
+- [Swagger Docs - coming soon](#) 
+
 ## Endpoints 
 ### /webhook/MakeDesign
 ```mermaid
